@@ -1,2 +1,16 @@
+# .NET
 bin/
 obj/
+*.user
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive config files
+appsettings.json
+appsettings.Development.json
